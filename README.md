@@ -12,8 +12,14 @@ The computer picks a random number between 1 and 100. The player keeps guessing,
 - Input and output with `scanf()` and `printf()`
 
 ## How to compile and run
-gcc guess_game.c -o guess_game
-./guess_game
+
+Compile:
+
+    gcc guess_game.c -o guess_game
+
+Run:
+
+    ./guess_game
 
 On Windows, run `guess_game.exe` instead of `./guess_game`.
 
